@@ -16,6 +16,10 @@ Bu proje, **AES-256 şifreleme/şifre çözme** ve **SHA256 özet (hash) alma** 
 
 > Uygulamanın arayüzü Streamlit ile sade ve kullanışlıdır.
 
+![ekran_goruntusu1](https://github.com/user-attachments/assets/87d8e68d-cb43-4bb3-9472-a68f182d1ce8)
+![ekran_goruntusu2](https://github.com/user-attachments/assets/850f7d64-4b6d-41b6-b578-12c6a8c62b12)
+
+
 ## 🔧 Gereksinimler
 
 Aşağıdaki kütüphanelerin yüklü olması gerekmektedir:
